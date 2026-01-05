@@ -45,3 +45,7 @@ cameyo was awesome program For packaging app to portable format for run on usb (
 cameyo was very popular format for app packaging but packager has deprecated and cameyo merged with google
 
 There Portable Apps Packaged with Cameyo (*.cameyo.exe) And cameyo packager itself (Cameyo.exe) is for preservation
+
+## GhostCapture Mode (Only 32 architecure support)
+
+Cameyo.exe -GhostCapture "Path to installer.exe"
