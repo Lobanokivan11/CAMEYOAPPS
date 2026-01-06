@@ -24,6 +24,8 @@
 
 - FarmFrenzyVikings.cameyo.exe = Farm Frenzy Viking Heroes (Game)
 
+- yahoowidgets.cameyo.exe = Yahoo Widgets (App)
+
 - bej3plus.cameyo.exe = Bejeweled 3 Plus (Game)
 
 - bejblitz.cameyo.exe = Bejeweled Blitz (Game)
